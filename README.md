@@ -26,4 +26,4 @@ employees and delegated daily tasks and responsibilities.
 - in depth project 1
 - in depth project 2
 - in depth project 3
-- 
+  
