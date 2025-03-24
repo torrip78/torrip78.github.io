@@ -8,6 +8,7 @@ Bachelors, Data Science
 Global Career Accelorator: Coding for Data - Participant
 - project #1
 - project #2 
+
 Shift Supervisor: Starbucks
 
 ### Projects 
