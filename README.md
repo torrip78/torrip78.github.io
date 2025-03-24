@@ -16,6 +16,12 @@
 employees and delegated daily tasks and responsibilities.
 - Helped store management meet standards of service and quality in daily operations.
 
+## Certifications 
+- SQL Specialist - Arizona State University - Tempe, AZ
+- Python Specialist - Arizona State University - Tempe, AZ
+- Coding For Data Program - Arizona State University - Tempe, AZ
+- Intercultural skills - Arizona State University - Tempe, AZ
+
 ### Projects 
 - in depth project 1
 - in depth project 2
