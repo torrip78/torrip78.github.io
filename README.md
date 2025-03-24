@@ -1,6 +1,6 @@
 # torrip78.github.io
 
-#Data Scientist 
+# Data Scientist 
 ### Education 
 Bachelors, Data Science 
 
@@ -10,7 +10,7 @@ Global Career Accelorator: Coding for Data - Participant
 - project #2 
 Shift Supervisor: Starbucks
 
-##Projects 
+### Projects 
 - in depth project 1
 - in depth project 2
 - in depth project 3
