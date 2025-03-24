@@ -1,15 +1,20 @@
-# torrip78.github.io
+# Data Analyst 
 
-# Data Scientist 
+#### Technical Skills: Python, SQL, R, Java, MATLAB, Tableau
+
 ### Education 
-Bachelors, Data Science 
+- B.S., Data Science | Arizona State University (_March 2026_)
+- Associate of Arts in Fine Arts | Rockingham Community College (_May 2022_)
 
-### Work Experience 
-Global Career Accelorator: Coding for Data - Participant
-- project #1
-- project #2 
+## Work Experience 
+**Global Career Accelorator: Coding for Data - Participant (_September 2022 - January 2025_)**
+- Completed 20 projects related to business needs and analytics.
+- Worked in teams of 4 or more people to solve data analysis problems.
 
-Shift Supervisor: Starbucks
+**Shift Supervisor: Starbucks (_October 2021 - Present_)**
+- Completed store opening and closing procedures and balanced tills. Trained over 10 new
+employees and delegated daily tasks and responsibilities.
+- Helped store management meet standards of service and quality in daily operations.
 
 ### Projects 
 - in depth project 1
