@@ -22,8 +22,10 @@ employees and delegated daily tasks and responsibilities.
 - Coding For Data Program - Arizona State University - Tempe, AZ
 - Intercultural skills - Arizona State University - Tempe, AZ
 
-### Projects 
-- in depth project 1
+## Projects 
+### [Grammys Website Analysis](https://github.com/torrip78/grammys-site-analysis)
+Analyzed user behavior across Grammy.com and recordingacademy.com using real web traffic data.
+Key skills: Phython, pandas, plotly, numpy, Exploratory Data Analysis
 - in depth project 2
 - in depth project 3
   
