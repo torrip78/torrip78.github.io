@@ -26,6 +26,8 @@ employees and delegated daily tasks and responsibilities.
 ### [Grammys Website Analysis](https://github.com/torrip78/grammys-site-analysis)
 Analyzed user behavior across Grammy.com and recordingacademy.com using real web traffic data.
 Key skills: Phython, pandas, plotly, numpy, Exploratory Data Analysis
-- in depth project 2
+### [SQL FamCation Customer Analysis](https://github.com/torrip78/SQL-indepth-project/tree/main)
+An analytical SQL project for a fictional resort company. Includes T-SQL queries to calculate revenue, identify top guests, and analyze booking trends using a normalized relational schema.
 - in depth project 3
+
   
