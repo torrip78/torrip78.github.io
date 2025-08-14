@@ -29,4 +29,6 @@ Key skills: Phython, pandas, plotly, numpy, Exploratory Data Analysis
 ### [SQL FamCation Customer Analysis](https://github.com/torrip78/SQL-indepth-project/tree/main)
 An analytical SQL project for a fictional resort company. Includes T-SQL queries to calculate revenue, identify top guests, and analyze booking trends using a normalized relational schema.
 ### [Tableau Retail Store Performance Dashboard](https://torrip78.github.io/Tableau-retail-store-dashboard/)
+An interactive Tableau dashboard built using a fictional retail store dataset sourced from Kaggle. The dashboard highlights key business KPIs including sales, category performance, and customer traffic. The dashboard was made to identify trends to guide decision-making through data. 
+
   
