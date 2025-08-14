@@ -28,6 +28,6 @@ Analyzed user behavior across Grammy.com and recordingacademy.com using real web
 Key skills: Phython, pandas, plotly, numpy, Exploratory Data Analysis
 ### [SQL FamCation Customer Analysis](https://github.com/torrip78/SQL-indepth-project/tree/main)
 An analytical SQL project for a fictional resort company. Includes T-SQL queries to calculate revenue, identify top guests, and analyze booking trends using a normalized relational schema.
-- in depth project 3
+## [Tableau Retail Store Performance Dashboard](https://github.com/torrip78/Tableau-retail-store-dashboard/tree/main)
 
   
