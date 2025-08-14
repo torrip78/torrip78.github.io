@@ -31,6 +31,9 @@ An interactive Tableau dashboard built using a fictional retail store dataset so
 **Global Career Accelorator: Coding for Data - Participant (_September 2022 - January 2025_)**
 - Completed 20 projects related to business needs and analytics.
 - Worked in teams of 4 or more people to solve data analysis problems.
+- Learned and adapted quickly to new technology and software applications.
+- Used strong analytical and problem-solving skills to develop effective solutions for challenging situations.
+- Designed data models for complex analysis needs.
 
 **Shift Supervisor: Starbucks (_October 2021 - Present_)**
 - Completed store opening and closing procedures and balanced tills. Trained over 10 new
