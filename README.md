@@ -24,6 +24,8 @@ An interactive Tableau dashboard built using a fictional retail store dataset so
 - Python Specialist - Arizona State University - Tempe, AZ
 - Coding For Data Program - Arizona State University - Tempe, AZ
 - Intercultural skills - Arizona State University - Tempe, AZ
+- Data Analysis for Sustainability for Intel - Arizona State University - Tempe, AZ
+- Website Audience Analysis for The Recording Academy - Arizona State University - Tempe, AZ
 
 ## Work Experience 
 **Global Career Accelorator: Coding for Data - Participant (_September 2022 - January 2025_)**
