@@ -1,10 +1,29 @@
 # Data Analyst 
 
-#### Technical Skills: Python, SQL, R, Java, MATLAB, Tableau
+#### Technical Skills: Python(pandas,NumPy,Plotly) • SQL(T-SQL MySQL) • R • Java • MATLAB • Tableau • Data Visualization • Data Cleaning • Statistical Analysis
 
 ### Education 
 - B.S., Data Science | Arizona State University (_March 2026_)
 - Associate of Arts in Fine Arts | Rockingham Community College (_May 2022_)
+
+## Projects 
+### [Grammys Website Analysis](https://github.com/torrip78/grammys-site-analysis)
+Analyzed user behavior across Grammy.com and recordingacademy.com using real web traffic data.
+***Key skills: Phython, pandas, plotly, numpy, Exploratory Data Analysis***
+
+### [SQL FamCation Customer Analysis](https://github.com/torrip78/SQL-indepth-project/tree/main)
+An analytical SQL project for a fictional resort company. Includes T-SQL queries to calculate revenue, identify top guests, and analyze booking trends using a normalized relational schema.
+***Key Skills: SQL, Data Analysis, Relational Databases***
+
+### [Tableau Retail Store Performance Dashboard](https://torrip78.github.io/Tableau-retail-store-dashboard/)
+An interactive Tableau dashboard built using a fictional retail store dataset sourced from Kaggle. The dashboard highlights key business KPIs including sales, category performance, and customer traffic. The dashboard was made to identify trends to guide decision-making through data. 
+***Key Skills: Tableau, Data Visualization, Business Analytics***
+
+## Certifications 
+- SQL Specialist - Arizona State University - Tempe, AZ
+- Python Specialist - Arizona State University - Tempe, AZ
+- Coding For Data Program - Arizona State University - Tempe, AZ
+- Intercultural skills - Arizona State University - Tempe, AZ
 
 ## Work Experience 
 **Global Career Accelorator: Coding for Data - Participant (_September 2022 - January 2025_)**
@@ -15,20 +34,3 @@
 - Completed store opening and closing procedures and balanced tills. Trained over 10 new
 employees and delegated daily tasks and responsibilities.
 - Helped store management meet standards of service and quality in daily operations.
-
-## Certifications 
-- SQL Specialist - Arizona State University - Tempe, AZ
-- Python Specialist - Arizona State University - Tempe, AZ
-- Coding For Data Program - Arizona State University - Tempe, AZ
-- Intercultural skills - Arizona State University - Tempe, AZ
-
-## Projects 
-### [Grammys Website Analysis](https://github.com/torrip78/grammys-site-analysis)
-Analyzed user behavior across Grammy.com and recordingacademy.com using real web traffic data.
-Key skills: Phython, pandas, plotly, numpy, Exploratory Data Analysis
-### [SQL FamCation Customer Analysis](https://github.com/torrip78/SQL-indepth-project/tree/main)
-An analytical SQL project for a fictional resort company. Includes T-SQL queries to calculate revenue, identify top guests, and analyze booking trends using a normalized relational schema.
-### [Tableau Retail Store Performance Dashboard](https://torrip78.github.io/Tableau-retail-store-dashboard/)
-An interactive Tableau dashboard built using a fictional retail store dataset sourced from Kaggle. The dashboard highlights key business KPIs including sales, category performance, and customer traffic. The dashboard was made to identify trends to guide decision-making through data. 
-
-  
