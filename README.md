@@ -35,7 +35,10 @@ An interactive Tableau dashboard built using a fictional retail store dataset so
 - Used strong analytical and problem-solving skills to develop effective solutions for challenging situations.
 - Designed data models for complex analysis needs.
 
-**Shift Supervisor: Starbucks (_October 2021 - Present_)**
+**Shift Supervisor: Starbucks (_October 2021 - December 2025)**
 - Completed store opening and closing procedures and balanced tills. Trained over 10 new
 employees and delegated daily tasks and responsibilities.
 - Helped store management meet standards of service and quality in daily operations.
+
+**Front Office Patient Coordinator (_January 2026 - Present)**
+  
